@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Predicting '23&nbsp;Women’s&nbsp;World&nbsp;Cup&nbsp;Top&nbsp;Scorers&nbsp;using&nbsp;FIFA&nbsp;Game&nbsp;Data
 Analyticon VIZ 2023 submission
 
