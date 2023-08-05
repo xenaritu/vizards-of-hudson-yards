@@ -1,8 +1,8 @@
 /* Set black background and white text */
 body {
   background-color: black;
-  color: white;
-  font-family: #f0f0f0, sans-serif;
+  color: #f0f0f0; /* A brighter shade of white */
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.6;
 }
