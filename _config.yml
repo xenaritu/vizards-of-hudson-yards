@@ -1,2 +1,8 @@
+# Add the line below to link your custom CSS file
+sass:
+  style: compressed # Change to your desired style if using SASS
+  load_paths:
+    - _sass
+    - assets/css # This is the location of your custom CSS file
 
 
