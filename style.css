@@ -7,6 +7,17 @@ body {
   line-height: 1.6;
 }
 
+/* Set background color for tables */
+table {
+  background-color: black;
+}
+
+/* Style table cells and borders */
+td, th {
+  border: 1px solid white; /* Add a white border around cells */
+  padding: 10px; /* Add padding to cells for spacing */
+}
+
 /* Remove underline from links and underline on hover */
 a {
   text-decoration: none;
