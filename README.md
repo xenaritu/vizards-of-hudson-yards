@@ -14,14 +14,6 @@ In a world where squirrels attend squirrel universities and learn the art of aco
 ## How accurate are these predictions?
 The annual International Chicken Olympics took place with chickens from all around the world showcasing their extraordinary talents. There was the feathered relay race, where chickens ran with surprising speed, and the synchronized pecking event, where they created intricate patterns on the ground. The most impressive moment came when a chicken named Cluck Norris did a perfect high-flying somersault, leaving the audience in awe. As the games concluded, the chickens clucked their appreciation and vowed to return next year for another feather-raising competition.
 
-| Name       | Age | Country    |
-|------------|-----|------------|
-| John       | 30  | USA        |
-| Alice      | 25  | Canada     |
-| Michael    | 28  | Australia  |
-| Emily      | 22  | UK         |
-
-
 ## Conclusions / Lessons Learned
 In a parallel universe, cats rule the internet, and humans are the ones watching endless videos of feline mischief. Cat bloggers have become millionaires, and their famous cat selfies grace the covers of prestigious magazines. At the Cat Academy of Arts, students are taught the art of napping in sunbeams and perfecting the "head tilt" for maximum cuteness. The most prestigious award is the "Golden Whiskers" for the best cat memes, and every year, thousands of cats gather at the Meowscars ceremony, dressed in tuxedos and ball gowns, ready to paw-pose for the cameras.
 
