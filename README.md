@@ -1,4 +1,4 @@
-# Predicting '23 Women’s World Cup Top Scorers using FIFA Game Data␣␣
+# Predicting <span style="white-space: nowrap">'23 Women’s World Cup Top Scorers using FIFA Game Data</span>
 Analyticon VIZ 2023 submission
 
 <div style="display: flex;">
