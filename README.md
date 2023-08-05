@@ -1,4 +1,4 @@
-# Netbusters Unleashed: Leveraging FIFA Game Data to Forecast 2023 Women's World Cup Top Scorers
+# Leveraging FIFA Game Data to Forecast 2023 Women's World Cup Top Scorers
 Analyticon VIZ 2023 submission
 
 <div style="display: flex;">
