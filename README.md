@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-# Predicting 2023&nbsp;&nbsp;World&nbsp;Cup&nbsp;Top&nbsp;Scorers&nbsp;using&nbsp;FIFA&nbsp;Game&nbsp;Data
+# Predicting 2023 World Cup Top Scorers using FIFA Game Data
 Analyticon VIZ 2023 submission
 
 <div style="display: flex;">
