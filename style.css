@@ -1,7 +1,45 @@
+/* Set black background and white text */
 body {
   background-color: black;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Remove underline from links and underline on hover */
+a {
+  text-decoration: none;
+  color: white; /* Optional: Set link color to white */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Center align headings and justify paragraphs */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
 
 p {
-  margin: 20px;
+  text-align: justify;
+}
+
+/* Add padding to paragraphs and margins to headings */
+p {
+  padding: 10px;
+}
+
+h1, h2, h3 {
+  margin-bottom: 20px;
+}
+
+/* Add border to images and box shadow to cards */
+img {
+  border: 1px solid #ccc;
+}
+
+.card {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
