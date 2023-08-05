@@ -9,7 +9,10 @@ body {
 
 /* Set background color for tables */
 table {
-  background-color: black;
+  background-color: black; /* Set the table background to black */
+  color: white; /* Set the text color inside the table to white */
+  border-collapse: collapse;
+  width: 100%;
 }
 
 /* Style table cells and borders */
